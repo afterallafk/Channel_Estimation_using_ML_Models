@@ -1,0 +1,4 @@
+K-Nearest Neighbors MSE: 1.2455009875659013
+Decision Tree MSE: 1.988912568882719
+Neural Network MSE: 1.1111836020784227
+Linear Regression - Test MSE: 0.5092, Validation MSE: 0.4884
